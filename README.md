@@ -1,18 +1,18 @@
-# 🪨📄✂️ Rock Paper Scissor Game
+#  Rock Paper Scissor Game
 
 A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript**. This web project allows users to play against the computer with real-time score tracking and responsive UI feedback.
 
-## 📁 Project Structure
+##  Project Structure
 
 
-📦 RockPaperScissor-Game/
+ RockPaperScissor-Game/
 ├── index.html        # Main HTML file
 ├── newcss.css        # Styling using CSS
 ├── first.js          # Game logic in JavaScript
 └── images/           # Rock, Paper, Scissor images
 
 
-## 🎮 How to Play
+##  How to Play
 
 1. Click on any of the choices: **Rock**, **Paper**, or **Scissor**.
 2. The computer randomly picks its choice.
@@ -25,7 +25,7 @@ A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 5. Messages are shown for **win**, **lose**, or **draw**.
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -39,7 +39,7 @@ A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 3. Open `index.html` in your browser.
 
 
-## 🧠 Features
+##  Features
 
 * Responsive UI with interactive hover effects
 * Real-time scoring
@@ -48,14 +48,14 @@ A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 * Minimal and clean design
 
 
-## 💡 Technologies Used
+##  Technologies Used
 
 * **HTML5** – Page structure and game elements
 * **CSS3** – Styling and layout
 * **Vanilla JavaScript** – Game mechanics and event handling
 
 
-## 📂 Image Assets
+##  Image Assets
 
 Ensure the following images are in an `images` folder:
 
@@ -65,13 +65,13 @@ Ensure the following images are in an `images` folder:
 
 > Update image names/paths in `index.html` if needed.
 
-## ✍️ Author
+##  Author
 
 **Sumit patel**
 https://github.com/sumitpatel1008/rockpaperscissor.git
 
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use, modify, and distribute!
 
